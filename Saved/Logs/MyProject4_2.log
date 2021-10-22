@@ -3332,3 +3332,9 @@ Continue: Skip saving this asset only.
 [2021.10.22-14.19.41:038][139]LogSlate: Window 'Project Settings' being destroyed
 [2021.10.22-14.19.41:043][139]LogSlate: Window 'Project Settings' being destroyed
 [2021.10.22-14.19.54:423][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.22-14.28.18:725][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube14)
+[2021.10.22-14.28.29:329][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonExampleMap" FILE="I:/Documents/Unreal Projects/MyProject4/Content/FirstPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.22-14.28.29:457][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.10.22-14.28.31:018][246]LogSavePackage: Moving 'I:/Documents/Unreal Projects/MyProject4/Saved/FirstPersonExampleMap6299A0CA4BD57C274E15758E7E0AF21C.tmp' to 'I:/Documents/Unreal Projects/MyProject4/Content/FirstPersonExampleMap.umap'
+[2021.10.22-14.28.31:117][246]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.10.22-14.28.31:117][246]LogContentValidation: Display: Validating World /Game/FirstPersonExampleMap.FirstPersonExampleMap
